@@ -1,1 +1,1 @@
-web: java -jar target/heroku-orange-cat-app.jar
+web: java -jar target/orange-cat-app-1.0-SNAPSHOT.jar
